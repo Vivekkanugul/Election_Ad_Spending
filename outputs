@@ -1,0 +1,9 @@
+This folder contains all the generated outputs from the Election Ad Spending Analysis project.
+
+- outputs/figures/ – Charts, plots, and visualizations created from the processed datasets, including:
+    - Top Spenders by page
+    - State-wise ad spending distribution
+    - Scatter plots or line charts for Ads vs Voter Turnout
+- outputs/reports/ – Exported reports, summaries, or markdown files detailing key insights and analysis results.
+
+All outputs are derived from the processed datasets and notebooks, serving as visual and documented evidence of findings.
