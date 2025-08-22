@@ -16,6 +16,6 @@ This folder contains Jupyter notebooks for the Election Ad Spending Analysis pro
    - Creates charts and visualizations including Top Spenders, State-wise Distribution, and Ads vs Voter Turnout
    - Saves figures to outputs/figures/
 
-4. 04_turnout_analysis.ipynb (optional)
+4. 04_turnout_analysis.ipynb
    - Advanced analysis of turnout vs ad spending
    - Models correlations and trends across states and constituencies
