@@ -1,0 +1,21 @@
+This folder contains Jupyter notebooks for the Election Ad Spending Analysis project.
+
+1. 01_data_cleaning.ipynb
+   - Loads raw datasets from data/raw/
+   - Handles missing/null values
+   - Standardizes columns and formats
+   - Saves cleaned datasets to data/processed/
+
+2. 02_exploratory_analysis.ipynb
+   - Loads processed datasets
+   - Generates summary statistics
+   - Explores state-wise and page-wise ad spending patterns
+   - Analyzes potential relationships between spending and voter turnout
+
+3. 03_visualizations.ipynb
+   - Creates charts and visualizations including Top Spenders, State-wise Distribution, and Ads vs Voter Turnout
+   - Saves figures to outputs/figures/
+
+4. 04_turnout_analysis.ipynb (optional)
+   - Advanced analysis of turnout vs ad spending
+   - Models correlations and trends across states and constituencies
