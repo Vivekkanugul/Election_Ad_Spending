@@ -1,0 +1,21 @@
+Processed Data
+
+All cleaned and preprocessed datasets for the Indian Elections 2024 ad spending analysis are stored in the data/processed/ folder. These datasets are ready for analysis and visualizations.
+
+1️⃣ advertisers_processed.csv
+
+This file contains the cleaned data for advertisers running political ads, including information about ad spending and the number of ads per page.
+
+2️⃣ locations_processed.csv
+
+This file contains aggregated ad spending by location, allowing for analysis of state-wise and constituency-level distribution of campaign spending.
+
+3️⃣ results_processed.csv
+
+This file contains official election results for each constituency, including total votes, registered voters, and turnout percentages.
+
+Usage
+
+These processed datasets are intended for exploratory data analysis, visualizations, and insights into the relationship between ad spending and voter turnout.
+
+Keep raw datasets in data/raw/ untouched. All cleaned and transformed data should be stored in data/processed/.
